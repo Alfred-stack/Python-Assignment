@@ -1,4 +1,4 @@
-** This repository will contain all assignments for the Python Module 
+This repository will contain all assignments for the Python Module 
 
 Assignment 1
 The first assignment is saved in the **userIpnut.py file and this takes simple inputs like the name of the user and prints it out 
